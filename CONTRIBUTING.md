@@ -1,6 +1,3 @@
-Here is the content in proper markdown format for your `CONTRIBUTING.md`:
-
-
 # Contributing to Online Retail Sales Data Analysis
 
 Thank you for considering contributing to this project! Contributions are essential to the growth and improvement of this repository. Whether you're fixing a bug, adding a feature, or improving documentation, your help is appreciated.
@@ -97,7 +94,7 @@ By contributing, you agree to adhere to the [Code of Conduct](CODE_OF_CONDUCT.md
 ## **Questions or Feedback?**
 
 If you have any questions, feel free to open a discussion or contact the maintainers at:  
-- Email: [mrowurakwarteng@gmail.com]  
+- Email: mrowurakwarteng@gmail.com  
 - GitHub Issues: [https://github.com/DataAnalyticaLab/online-retail-sales-data-analysis/issues](https://github.com/DataAnalyticaLab/online-retail-sales-data-analysis/issues)  
 
 Thank you for contributing! 🎉
