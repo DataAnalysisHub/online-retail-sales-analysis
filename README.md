@@ -178,7 +178,7 @@ Refer to the [CONTRIBUTING](CONTRIBUTING.md) file for more details.
 
 
 ## License
-This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for more details.
+This project is licensed under the Apache License 2.0. See [LICENSE.md](LICENSE.md) for more details.
 
 
 ## Acknowledgments
