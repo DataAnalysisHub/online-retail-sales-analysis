@@ -63,16 +63,19 @@ Online_Sales_Data_Analysis/
 │   ├── daily-purchase-trend.md
 │   ├── customer-patronage-forecast.md
 │   ├── data-processing.md
+├── figures/                     # Generated visualizations
+├── images/                      # Supporting images for documentation
 ├── scripts/                     # Python scripts for data analysis
 │   ├── EDA/
 │   ├── customer_lifetime_value.py
 │   ├── customer_retention.py
 │   ├── daily_purchase_trend.py
 │   ├── customer_patronage_forecast.py
-├── figures/                     # Generated visualizations
-├── images/                      # Supporting images for documentation
-├── requirements.txt             # Required libraries and dependencies
+├── CODE_OF_CONDUCT.md		 # Code of ethics regarding contribution to the project
+├── CONTRIBUTING.md		 # Doc about contributing to the project
 ├── LICENSE.md
+├── README.md
+├── requirements.txt             # Required libraries and dependencies
 ```
 
 
