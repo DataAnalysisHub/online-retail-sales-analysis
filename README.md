@@ -17,7 +17,7 @@ and prescriptive analyses.
 3. [Installation](#installation)  
 4. [Usage](#usage)  
 5. [Project Modules](#project-modules)  
-   - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+   - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
    - [Customer Lifetime Value (CLV)](#customer-lifetime-value-clv)  
    - [Customer Retention](#customer-retention)  
    - [Customer Patronage Forecast](#customer-patronage-forecast)  
@@ -73,14 +73,7 @@ Online_Sales_Data_Analysis/
 ├── images/                      # Supporting images for documentation
 ├── requirements.txt             # Required libraries and dependencies
 ├── LICENSE.md
-
-
-
-
-
-
-
-
+```
 
 
 ## Installation
@@ -92,20 +85,8 @@ pip install -r requirements.txt
 ```
 
 
-
-
-
-
-
-
 ## Usage
 Follow these steps to explore and analyze the dataset:
-
-:
-
-
-
-
 
 1. **Exploratory Data Analysis (EDA)**: 
      Clean and preprocess the data.
@@ -130,8 +111,10 @@ Follow these steps to explore and analyze the dataset:
     scripts/customer_retention.py
     ```
 
+
+
 ## Project Modules
-### Exploatory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 - Data cleaning: Handle missing values, duplicates, and cancellations.
 - Initial insights: Explore data distributions and relationships.
 - Feature engineering: Transform data types and normalize values.
@@ -149,7 +132,7 @@ Follow these steps to explore and analyze the dataset:
 - Weekly predictions of customer behavior trends.
 - Time series modeling with appropriate parameters for accurate forecasting.
 
-### Daily Purchase Trend
+### Daily Purchase Trends
 - Analyze daily revenue patterns and seasonality.
 - Visualize purchasing behavior over time.
 
@@ -163,13 +146,13 @@ Follow these steps to explore and analyze the dataset:
 
 
 ## Future Enhancements
-1. *Frequent Item Analysis*:
+1. **Frequent Item Analysis**:
    Use Apriori or FP-Growth algorithms to discover frequently purchased item pairs. Hardware limitations will be addressed using cloud solutions.
 
-2. *Deep Learning Integration*:
+2. **Deep Learning Integration**:
    Explore advanced models like LSTMs for customer behavior predictions.
 
-3. *Interactive Dashboards*:
+3. **Interactive Dashboards**:
    Develop dashboards using Power BI or Tableau for dynamic visualizations.
 
 
@@ -195,7 +178,7 @@ Refer to the CONTRIBUTING.md file for more details.
 
 
 ## License
-This project is licensed under the Apache License 2.0. See LICENSE.md for more details.
+This project is licensed under the Apache License 2.0. See [LICENSE](LICENSE) for more details.
 
 
 ## Acknowledgments
