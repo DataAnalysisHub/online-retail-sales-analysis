@@ -174,7 +174,7 @@ We welcome contributions! To get started:
     git push origin feature/your-feature-name
     ```
 5. Submit a pull request.
-Refer to the CONTRIBUTING.md file for more details.
+Refer to the [CONTRIBUTING](CONTRIBUTING.md) file for more details.
 
 
 ## License
@@ -194,5 +194,5 @@ challenge. The result of this analysis has the potential to increase business ga
 
 ---
 
-This README.md file provides a clear and organized structure for "Online Sales Data Analysis" project. It includes sections for project 
+This README.md file provides a clear and organized structure for **Online Sales Data Analysis** project. It includes sections for project 
 overview, installation instructions, usage guidelines, and references to each project module.
