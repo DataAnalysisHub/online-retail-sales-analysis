@@ -7,7 +7,7 @@ to uncover actionable insights for improving customer engagement, understanding 
 business strategies.  
 
 The aim is to showcase how data analytics can drive decision-making in e-commerce, combining exploratory, predictive, 
-and prescriptive analyses.
+and prescriptive analysis.
 
 ---
 
